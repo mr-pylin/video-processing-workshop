@@ -61,7 +61,7 @@ A comprehensive resource for diving deep into the fascinating world of **digital
 [![ipywidgets](https://img.shields.io/badge/ipywidgets-8.1.8-ff6347)](https://pypi.org/project/ipywidgets/8.1.8/)
 [![matplotlib](https://img.shields.io/badge/matplotlib-3.10.9-green)](https://pypi.org/project/matplotlib/3.10.9/)
 [![numpy](https://img.shields.io/badge/numpy-2.4.6-orange)](https://pypi.org/project/numpy/2.4.6/)
-[![opencv-contrib-python](https://img.shields.io/badge/opencv--contrib--python-4.13.0.92-blue)](https://pypi.org/project/opencv-contrib-python/4.13.0.92/)
+[![opencv-python](https://img.shields.io/badge/opencv--python-4.13.0.92-blue)](https://pypi.org/project/opencv-python/4.13.0.92/)
 [![scipy](https://img.shields.io/badge/scipy-1.17.1-purple)](https://pypi.org/project/scipy/1.17.1/)
 
 ### 📦 Installing Dependencies
