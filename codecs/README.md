@@ -4,7 +4,7 @@
 - It allows for **efficient storage**, **transmission**, and **playback** of audio and video content.
 
 > 📚 For image codecs, see the Digital Image Processing workshop:
-> <https://github.com/mr-pylin/media-processing-workshop>
+> <https://github.com/mr-pylin/image-processing-workshop>
 
 ## 🎥 **Video Codecs**
 

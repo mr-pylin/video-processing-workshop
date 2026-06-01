@@ -47,7 +47,7 @@ A comprehensive resource for diving deep into the fascinating world of **digital
   - 🎲 **Probability & Statistics**: Probability distributions, mean/variance, etc.
     - [**MATH1024: Introduction to Probability and Statistics**](https://www.sujitsahu.com/teach/2020_math1024.pdf) written by [*Sujit Sahu*](https://www.southampton.ac.uk/people/5wynjr/professor-sujit-sahu).
 - 📶 **Digital Signal Processing Knowledge**
-  - My Digital Image Processing Workshop: [**github.com/mr-pylin/media-processing-workshop**](https://github.com/mr-pylin/media-processing-workshop)
+  - My Digital Image Processing Workshop: [**github.com/mr-pylin/image-processing-workshop**](https://github.com/mr-pylin/image-processing-workshop)
   - [**Digital Image Processing (4th Edition)**](https://www.imageprocessingplace.com/DIP-4E/dip4e_main_page.htm) written by [*Rafael C. Gonzalez*](https://www.imageprocessingplace.com/root_files_V3/about_the_authors/gonzalez.htm) & [*Richard E. Woods*](https://www.imageprocessingplace.com/root_files_V3/about_the_authors/woods.htm)
   - [**The Scientist and Engineer's Guide to Digital Signal Processing**](https://www.dspguide.com/pdfbook.htm) written by [*Steven W. Smith*](https://www.dspguide.com/swsmith.htm)
 
