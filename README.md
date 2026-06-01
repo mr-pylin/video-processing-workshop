@@ -2,11 +2,13 @@
 
 [![License](https://img.shields.io/github/license/mr-pylin/video-processing-workshop?color=blue)](https://github.com/mr-pylin/video-processing-workshop/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.14.5-yellow?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3145/)
+[![FFmpeg](https://img.shields.io/badge/FFmpeg-8.1.1-success)](https://ffmpeg.org/)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9eb774b7945449cdb86029e9093b3c73)](https://app.codacy.com/gh/mr-pylin/video-processing-workshop/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Code Style](https://img.shields.io/badge/code%20style-black-black.svg)](https://github.com/psf/black)
 ![Repo Size](https://img.shields.io/github/repo-size/mr-pylin/video-processing-workshop?color=lightblue)
 ![Last Updated](https://img.shields.io/github/last-commit/mr-pylin/video-processing-workshop?color=orange)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?color=brightgreen)](https://github.com/mr-pylin/video-processing-workshop/pulls)
+[![Telegram](https://img.shields.io/badge/Telegram-Group-black?logo=telegram)](https://t.me/python_topics)
 
 A comprehensive resource for diving deep into the fascinating world of **digital video processing**. Whether you're starting from the basics or looking to refine your **advanced skills**, this workshop provides **hands-on guidance** and **clear explanations**.
 
@@ -56,6 +58,8 @@ A comprehensive resource for diving deep into the fascinating world of **digital
 
 ### 📝 List of Dependencies
 
+[![av](https://img.shields.io/badge/av-17.0.1-red)](https://pypi.org/project/av/17.0.1/)
+[![ImageIO](https://img.shields.io/badge/ImageIO-2.37.3-yellow)](https://pypi.org/project/imageio/2.37.3/)
 [![ipykernel](https://img.shields.io/badge/ipykernel-7.2.0-ff69b4)](https://pypi.org/project/ipykernel/7.2.0/)
 [![ipympl](https://img.shields.io/badge/ipympl-0.10.0-purple)](https://pypi.org/project/ipympl/0.10.0/)
 [![ipywidgets](https://img.shields.io/badge/ipywidgets-8.1.8-ff6347)](https://pypi.org/project/ipywidgets/8.1.8/)
@@ -63,6 +67,7 @@ A comprehensive resource for diving deep into the fascinating world of **digital
 [![numpy](https://img.shields.io/badge/numpy-2.4.6-orange)](https://pypi.org/project/numpy/2.4.6/)
 [![opencv-python](https://img.shields.io/badge/opencv--python-4.13.0.92-blue)](https://pypi.org/project/opencv-python/4.13.0.92/)
 [![scipy](https://img.shields.io/badge/scipy-1.17.1-purple)](https://pypi.org/project/scipy/1.17.1/)
+<!-- [![python-ffmpeg](https://img.shields.io/badge/python--ffmpeg-2.0.12-lightgrey)](https://pypi.org/project/python-ffmpeg/2.0.12/) -->
 
 ### 📦 Installing Dependencies
 
