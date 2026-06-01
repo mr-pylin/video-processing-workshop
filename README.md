@@ -3,12 +3,12 @@
 [![License](https://img.shields.io/github/license/mr-pylin/video-processing-workshop?color=blue)](https://github.com/mr-pylin/video-processing-workshop/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.14.5-yellow?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3145/)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-8.1.1-success)](https://ffmpeg.org/)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9eb774b7945449cdb86029e9093b3c73)](https://app.codacy.com/gh/mr-pylin/video-processing-workshop/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Code Style](https://img.shields.io/badge/code%20style-black-black.svg)](https://github.com/psf/black)
 ![Repo Size](https://img.shields.io/github/repo-size/mr-pylin/video-processing-workshop?color=lightblue)
 ![Last Updated](https://img.shields.io/github/last-commit/mr-pylin/video-processing-workshop?color=orange)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?color=brightgreen)](https://github.com/mr-pylin/video-processing-workshop/pulls)
 [![Telegram](https://img.shields.io/badge/Telegram-Group-black?logo=telegram)](https://t.me/python_topics)
+<!-- [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9eb774b7945449cdb86029e9093b3c73)](https://app.codacy.com/gh/mr-pylin/video-processing-workshop/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) -->
 
 A comprehensive resource for diving deep into the fascinating world of **digital video processing**. Whether you're starting from the basics or looking to refine your **advanced skills**, this workshop provides **hands-on guidance** and **clear explanations**.
 
