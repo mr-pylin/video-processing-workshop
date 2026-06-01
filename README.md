@@ -14,8 +14,8 @@ A comprehensive resource for diving deep into the fascinating world of **digital
 
 ## 📖 Table of Contents
 
-<!-- 1. [**Introduction to Digital Video**](./code/)
-1. [**Video Input/Output**](./code/)
+1. [**Introduction to Digital Video**](./code/01-introduction.ipynb)
+<!-- 1. [**Video Input/Output**](./code/)
 1. [**Frame Manipulation**](./code/)
 1. [**Color Spaces and Video Formats**](./code/)
 1. [**Motion Estimation**](./code/)
