@@ -165,5 +165,8 @@ cython_debug/
 
 # temporary outputs
 output/
+
+# misc
 .resource/
 .vscode/
+.template/
